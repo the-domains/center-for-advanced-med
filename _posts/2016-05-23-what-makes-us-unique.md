@@ -1,11 +1,11 @@
 ---
 description: So what does that mean to you?
-dateModified: '2016-05-23T22:59:19.758Z'
-datePublished: '2016-05-23T22:59:22.328Z'
+dateModified: '2016-05-23T23:00:29.532Z'
+datePublished: '2016-05-23T23:00:30.406Z'
 title: What Makes Us Unique?
 author: []
 sourcePath: _posts/2016-05-23-what-makes-us-unique.md
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
