@@ -1,11 +1,11 @@
 ---
 description: So what does that mean to you?
-dateModified: '2016-05-23T22:58:26.409Z'
-datePublished: '2016-05-23T22:58:30.754Z'
+dateModified: '2016-05-23T22:59:19.758Z'
+datePublished: '2016-05-23T22:59:22.328Z'
 title: What Makes Us Unique?
 author: []
-starred: false
 sourcePath: _posts/2016-05-23-what-makes-us-unique.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
@@ -32,7 +32,7 @@ _What Does This Mean to YOU?_
 * If you have been told they can't find the problem but you know something is really wrong come to us.
 * If you are sick and tired of being sick and tired come to us.
 
-## [Policies and Paperwork][0]
+[Policies and Paperwork][0]
 
 For important information and links to our new patient paperwork, see our **[Policies and Paperwork][0]** page. If you should have any questions, please feel free to call us at (760) 632-9042\.
 
